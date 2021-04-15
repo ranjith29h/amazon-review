@@ -1,0 +1,17 @@
+.cardHeader {
+  display: flex;
+  background-color: #f7f7f7;
+  justify-content: space-between;
+  padding: 2%;
+  border: 1px solid #e4e4e4;
+}
+
+.product_title {
+  font-size: 19px;
+  margin-bottom: 5px;
+}
+.total_reviews {
+  color: #fda829;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
